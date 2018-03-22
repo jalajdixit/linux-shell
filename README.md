@@ -23,5 +23,5 @@ Designing my own shell (command interpreter) for linux terminal
 * cmdexe.c    : execute the commands
 * shellmain.c : main() function for shell
 
-> designed by [Jalaj Dixit](jalajdixit1@gmail.com)
+> designed by [Jalaj Dixit](https://github.com/jalajdixit)
 
