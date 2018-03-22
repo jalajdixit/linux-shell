@@ -16,6 +16,5 @@ Designing my own shell (command interpreter) for linux terminal
   * output redirection (>)
   * pipeline mechanism (|)
 
->	jshell designed by Jalaj Dixit
->	Email: jalajdixit1@gmail.com 
+> designed by Jalaj Dixit  Email: jalajdixit1@gmail.com 
 
