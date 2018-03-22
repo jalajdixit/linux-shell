@@ -10,11 +10,18 @@ Designing my own shell (command interpreter) for linux terminal
 	  help: show help section of jshell
 	  quit: exit from jshell
 
-* jshell supports,
+**jshell supports,**
   * multiple commands (;)
   * input redirection (<)
   * output redirection (>)
   * pipeline mechanism (|)
+
+**Code Files**
+* myheaher.h  : header file for project
+* colors.h    : adding colors to my shell
+* makefile    : makefile for project
+* cmdexe.c    : execute the commands
+* shellmain.c : main() function for shell
 
 > designed by [Jalaj Dixit](jalajdixit1@gmail.com)
 
